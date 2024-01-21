@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "name": "csv_parsing",
+  "version": "1.0.0",
+  "main": "csv_parser.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
